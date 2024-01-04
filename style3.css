@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.purchase-complete {
+    text-align: center;
+    padding: 20px;
+}
+
+.purchase-complete h1 {
+    color: #008CBA; /* Blue */
+    font-size: 32px;
+}
+
+.purchase-complete p {
+    color: #666;
+}
+
+.back-button {
+    display: inline-block;
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
